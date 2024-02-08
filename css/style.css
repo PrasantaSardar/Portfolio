@@ -22,7 +22,7 @@ header{
 .header_img{
     width: 100%;
     height: 200px;
-    background-image: url(/images/img_logo-fotor-bg-remover-20240118123840.png);
+    background-image: url(./images/img_logo-fotor-bg-remover-20240118123840.png);
     background-size: cover;
     position: relative;
 }
